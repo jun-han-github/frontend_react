@@ -1,2 +1,8 @@
 # DS Store
 .DS_Store
+
+# virtual environment
+appvenv/
+__pycache/
+*.pyc
+.env
