@@ -29,7 +29,7 @@ ALLOWED_HOSTS = []
 
 
 # Application definition
-
+# this will allow django to view anythin i put in /core
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
